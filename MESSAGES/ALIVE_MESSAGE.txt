@@ -1,13 +1,15 @@
-👋හායි කොහොමද i'm Alive Now
+*👋හායි කොහොමද i'm Alive Now*
 
-*🚀Version* : 1.5.0
-*📍Platform* : Linux
-*Botname* : ZUSYCO 
-*OwnerNo* : wa.me//94769060366
+*🚀Version: 1.5.0*
+*📍Platform: Linux*
+*🤖Botname: ZUSYCO*
+*🪀OwnerNo: wa.me//94769060366*
+
 *🌻HAVE A Nice Day🌻*
 
-'👾Owner-Mr.TnSampath'
+*👾Owner-Mr.TnSampath*
 
-*👉🏻Command = .menu👈🏻* 
+*You want to know how to bot work*
+*Type- .menu*
 
-'©Zusyco Bot 2024'
+©Zusyco Bot 2024
